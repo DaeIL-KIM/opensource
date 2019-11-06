@@ -1,0 +1,29 @@
+html{
+    width:100%
+    height:100%;
+}
+body{
+ background-color:aqua;
+ color:black
+}
+div{
+ border:red solid 3px;
+ /* display: inline-block; */
+ width:45%;
+ height:40%;
+ margin:30px;  /*  */
+ padding:40px; /*  */
+ 
+}
+div{
+    font-style: 20px;
+    color:white;
+    overflow:scroll;
+    float:left;
+
+}
+
+.make_class{
+
+}
+/* 주석 처리 방법 ctrl / */
